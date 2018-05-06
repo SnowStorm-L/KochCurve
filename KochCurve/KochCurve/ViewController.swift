@@ -18,6 +18,7 @@ class ViewController: UIViewController {
         kochSonwView.backgroundColor = .red
         kochSonwView.frame = CGRect(x: 0, y: 0, width: view.frame.size.width, height: sqrt(pow(view.frame.size.width, 2) - pow(view.frame.size.width/2, 2)))
         view.addSubview(kochSonwView)
+//        hypot(<#T##Double#>, <#T##Double#>)
     }
 
     override func didReceiveMemoryWarning() {
