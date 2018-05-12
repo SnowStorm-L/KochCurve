@@ -1,2 +1,2 @@
 # KochCurve
-KochCurve
+KochSnow
